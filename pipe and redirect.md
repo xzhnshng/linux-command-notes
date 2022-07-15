@@ -43,3 +43,5 @@ However, that's clunky, so they made pipes as a simpler way to do that. `thing1 
 [1] https://askubuntu.com/questions/172982/what-is-the-difference-between-redirection-and-pipe <br/>
 [2] https://superuser.com/questions/277324/pipes-vs-redirects#:~:text=The%20difference%20lies%20in%20how,from%20a%20file%20to%20stdin)<br/>
 [3] https://www.cnblogs.com/chengmo/archive/2010/10/21/1856577.html <br/>
+[4] https://www.guru99.com/linux-redirection.html <br/>
+[5] https://www.cnblogs.com/chengmo/archive/2010/10/20/1855805.html
